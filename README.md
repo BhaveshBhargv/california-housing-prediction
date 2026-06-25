@@ -77,8 +77,7 @@ california-housing-prediction/
 │
 ├── california_housing.ipynb   # Main Colab notebook
 ├── housing.csv                # California Housing Dataset
-├── README.md                  # Project documentation
-└── requirements.txt           # Dependencies
+└── README.md                  # Project documentation
 ```
 
 ---
