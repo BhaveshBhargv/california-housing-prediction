@@ -95,9 +95,6 @@ Click the badge below to open the notebook directly in Colab:
 git clone https://github.com/BhaveshBhargv/california-housing-prediction.git
 cd california-housing-prediction
 
-# Install dependencies
-pip install -r requirements.txt
-
 # Open the notebook
 jupyter notebook california_housing.ipynb
 ```
