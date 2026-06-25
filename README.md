@@ -16,10 +16,10 @@ Housing price prediction is a classic regression problem in applied machine lear
 
 | Model | R² Score |
 |-------|----------|
-| Linear Regression | — |
-| Support Vector Regressor (SVR) | — |
-| Multi-Layer Perceptron (MLP) | — |
-| **Random Forest Regressor** | **0.80** ✅ |
+| Linear Regression | **0.64** ✅ |
+| Support Vector Regressor (SVR) | **0.59** ✅ |
+| Multi-Layer Perceptron (MLP) | **0.80** ✅ |
+| **Random Forest Regressor** | **0.82** ✅ |
 
 > Best model achieved an R² of **0.80**, meaning the model explains 80% of variance in housing prices.
 
@@ -76,6 +76,7 @@ Housing price prediction is a classic regression problem in applied machine lear
 california-housing-prediction/
 │
 ├── california_housing.ipynb   # Main Colab notebook
+├── housing.csv                # California Housing Dataset
 ├── README.md                  # Project documentation
 └── requirements.txt           # Dependencies
 ```
@@ -87,7 +88,7 @@ california-housing-prediction/
 ### Run in Google Colab
 Click the badge below to open the notebook directly in Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QsCrY5-Ss1lU0Ylrre4KQCc7B-2RG1V4#scrollTo=Hkz5_puDrde5)
 
 ### Run Locally
 ```bash
