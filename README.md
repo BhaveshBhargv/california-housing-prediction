@@ -75,7 +75,7 @@ Housing price prediction is a classic regression problem in applied machine lear
 ```
 california-housing-prediction/
 │
-├── california_housing.ipynb   # Main Colab notebook
+├── Training_Models.ipynb   # Main Colab notebook
 ├── housing.csv                # California Housing Dataset
 └── README.md                  # Project documentation
 ```
