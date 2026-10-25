@@ -21,7 +21,7 @@ Housing price prediction is a classic regression problem in applied machine lear
 | Multi-Layer Perceptron (MLP) | **0.80** ✅ |
 | **Random Forest Regressor** | **0.82** ✅ |
 
-> Best model achieved an R² of **0.80**, meaning the model explains 80% of variance in housing prices.
+> Best model achieved an R² of **0.82**, meaning the model explains 80% of variance in housing prices.
 
 ---
 
